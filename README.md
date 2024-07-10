@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working as a **Data Analyst** in a Unicorn Health-Care start-up
+- 🔭 I’m currently working as a **Data Analyst** in a 🦄 Unicorn Health-Care start-up
 
 - 🌱 I’m currently learning JavaScript & React
 
